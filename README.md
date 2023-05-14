@@ -1,4 +1,4 @@
-<h1>Hi :sunny: </h1>
+<h1>Hi :icecream:</h1>
 
 <h5>
 We are students :alien: of the GoIT IT Academy, where we delve into knowledge for 12 months, starting from learning HTML, CSS, Git, GitHub, and Sass, progressing to JS libraries, the React framework, Next.js, npm, and webpack.</h5>
