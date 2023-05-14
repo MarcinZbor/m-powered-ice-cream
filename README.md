@@ -7,5 +7,8 @@ We are students :alien: of the GoIT IT Academy, where we delve into knowledge fo
 In our first group project, we were supposed to create a website for a company that sells natural ice cream. We received a ready-made project template prepared in Figma. In our 10-person team, we built a responsive website from scratch.</p>
 
 <h2>:ice_cream: Tasks:</h2>
+<ul>
+  <li>:snowflake:</li>
+</ul>
 
 
