@@ -10,10 +10,10 @@ In our first group project, we were supposed to create a website for a company t
 <ul>
   <li>:snowflake: Develop Responsive Web Design </li>
   <li>:snowflake: Develop The website has been prepared according to the design from Figma. </li>
-  <li>:snowflake: Develop Responsive Web Design </li>
-  <li>:snowflake: Develop Responsive Web Design </li>
-  <li>:snowflake: Develop Responsive Web Design </li>
-  <li>:snowflake: Develop Responsive Web Design </li>
+  <li>:snowflake: Develop Modal for order </li>
+  <li>:snowflake: Develop Keyframes animation </li>
+  <li>:snowflake: Develop Modal with location</li>
+  <li>:snowflake: Develop CSS with all necessary colors and backgrounds </li>
 </ul>
 
 
