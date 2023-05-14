@@ -8,7 +8,12 @@ In our first group project, we were supposed to create a website for a company t
 
 <h2>:ice_cream: Tasks:</h2>
 <ul>
-  <li>:snowflake:</li>
+  <li>:snowflake: Develop Responsive Web Design </li>
+  <li>:snowflake: Develop The website has been prepared according to the design from Figma. </li>
+  <li>:snowflake: Develop Responsive Web Design </li>
+  <li>:snowflake: Develop Responsive Web Design </li>
+  <li>:snowflake: Develop Responsive Web Design </li>
+  <li>:snowflake: Develop Responsive Web Design </li>
 </ul>
 
 
